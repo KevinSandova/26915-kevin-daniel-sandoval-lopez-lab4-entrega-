@@ -1,4 +1,4 @@
-# Lab 3 - Herencia y Polimorfismo
+# Lab 4 - Herencia y Polimorfismo
 
 **Nombre completo:** Kevin Daniel Sandoval López
 **Carné:** 26915
